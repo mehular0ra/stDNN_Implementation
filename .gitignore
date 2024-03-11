@@ -5,4 +5,5 @@
 wandb/*
 result/*
 outputs/*
+*.pth
 multirun/*
